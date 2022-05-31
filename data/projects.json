@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Holidaze - Semester Project",
+    "types": ["Booking"],
+    "link": "https://holidaze-tawny.vercel.app/",
+    "repository": "https://github.com/kasperbb/holidaze",
+    "src": "https://camo.githubusercontent.com/67495206c190415f02ea0774f5789a837991c5fde79ab55461655584c7930fcf/68747470733a2f2f692e696d6775722e636f6d2f55594d796d534f2e706e67",
+    "alt": "Screenshot of Holidaze",
+    "description": "A booking system for hotels and resorts. The site is built with NextJS, Supabase, and is hosted on Vercel."
+  },
+  {
+    "name": "Athes - Semester Project",
+    "types": ["Ecommerce"],
+    "link": "https://athes.netlify.app",
+    "repository": "https://github.com/kasperbb/kasper-bo-bjorno-sp2",
+    "src": "https://camo.githubusercontent.com/4866586a47a0eef4e16022f1f58b2b55402f6a0a696176897c10acd22f083505/68747470733a2f2f692e696d6775722e636f6d2f36724879506a712e6a706567",
+    "alt": "Screenshot of Athes",
+    "description": "An ecommerce site for a shoe store. The site is built with plain HTML, JavaScript, and CSS."
+  },
+  {
+    "name": "JS Course Assignment",
+    "types": ["Games"],
+    "link": "https://snazzy-starlight-91bee0.netlify.app",
+    "repository": "https://github.com/Noroff-FEU-Assignments/js-frameworks-course-assignment-kasperbb",
+    "src": "https://camo.githubusercontent.com/bdd699bc2124accfdd5a9075efe7e2f00168559fdb539a135de815402289855d/68747470733a2f2f692e696d6775722e636f6d2f6e326630516b4e2e706e67",
+    "alt": "Screenshot of JS Course Assignment",
+    "description": "A website listing popular games. The site is built with NextJS, React Query, and is hosted on Netlify."
+  }
+]
